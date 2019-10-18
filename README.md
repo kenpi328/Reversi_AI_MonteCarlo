@@ -1,2 +1,2 @@
 # Reversi_AI_MonteCarlo
-Reversi and an AI implemented in C++
+Reversi and an monte carlo search AI implemented in C++
