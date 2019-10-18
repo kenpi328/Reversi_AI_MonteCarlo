@@ -1,5 +1,5 @@
 #include "Othello.h"
-// set (3,3) and (4,4) to white(1), and set (3,4) and (4,5)
+// set (3,3) and (4,4) to white, and set (3,4) and (4,5) to black
 int** newGame() 
 {
 	int** Board;
